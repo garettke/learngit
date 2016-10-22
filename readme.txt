@@ -3,3 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 zxc
 fuck git !
+
+Create a new branch is quick.
+
